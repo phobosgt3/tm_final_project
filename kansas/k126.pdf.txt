@@ -1,0 +1,34 @@
+Testimony on House Bill 2121
+Regarding Reporting the Administration of Vaccines to the State Registry
+House Committee on Health and Human Services
+Jennifer VandeVelde
+Director of the Bureau of Disease Control and Prevention
+Kansas Department of Health and Environment
+Chairman Hawkins and members of the committee, I am Jennifer VandeVelde, Director of the Bureau of Disease Control
+and Prevention for the Kansas Department of Health and Environment (KDHE). Thank you for the opportunity to discuss
+House Bill 2121. We believe this bill would help provide critical and necessary information regarding vaccines in the State
+of Kansas.
+As you are likely aware, WebIZ has been our statewide immunization registry since August, 2005. WebIZ currently has
+interfaces with 22 electronic health vendors, with an additional 25 electronic health vendors currently in the process of
+completing the enrollment process. These vendors, along with facilities entering directly into WebIZ, collectively
+represent 1,565 facilities, which translates to approximately 2,731,740 total patients included in WebIZ, with that number
+growing each day. While most providers have seized the opportunity to participate in WebIZ, we do not yet have complete
+reporting of vaccines. It is this lack of complete reporting that HB2121 would alleviate, resulting in many positive
+outcomes, including:
+ Decreased chance of improper vaccination (due to complete vaccination histories being available to providers)
+ Fewer delays in validating vaccination history for schools, which will result in fewer days of missed school for
+children who would otherwise be excluded until proof of vaccination can be provided.
+ Decreased risk of avoidable adverse vaccine events: because contraindications, including allergies, are carried
+forward in WebIZ, providers would be alerted to these conditions, even if the patient or parent had forgotten to
+advise the provider.
+ Easier access to vaccination records not only for providers, but also for patients and parents.
+ Finally, complete reporting would provide the information needed for KDHE to accurately assess, understand, and
+respond to actual coverage rates for vaccines in Kansas. Current program activities are based on survey data from
+the National Immunization Survey. This data is a sampling of our population, which is naturally a less reliable
+source of information.
+We want to ensure that providers are given ample time, opportunity, and assistance to complete the process of working
+with WebIZ. We respectfully request a timeframe of three to five years to ensure that our staff are able to provide all
+necessary assistance to providers not currently engaged with WebIZ.
+If passed, we do not estimate any additional costs to KDHE in the implementation of the bill.
+
+

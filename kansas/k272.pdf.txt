@@ -1,0 +1,275 @@
+1
+
+The Problem: The Donor Shortage
+According to the National Kidney Foundation, over 120,000 Americans require an organ
+transplantation [12]. In 2016 alone, 52,000 people were added to the list, equating to one every
+10 minutes. However, only approximately 30,000 people received a new organ - meaning in
+2016 alone, the organ donation system faces a deficit of more than 20,000 people1. This
+unfortunate and worrying trend is not new - organ donation systems in both the United States and
+the world have traditionally faced severe shortages of life-saving organ for transplantation, even
+though over 95 per cent of
+Americans support organ
+donation [1]. Although
+research traditionally has
+correlated increased donor rates
+with more organs donated, less
+than half of all eligible adults
+in the U.S. are registered
+deceased organ donors [1]. In
+Kansas alone, over 600 people
+currently need life-saving
+organ transplants, thereby
+necessitating the
+implementation of such a productive and efficient system. About 60 per cent of those people
+needing organs will die while waiting - a death rate comparable to smallpox, untreated tetanus,
+or anthrax. Most scientists and behavioral economists generally agree that a small change to
+current organ donation laws can and will save thousands of lives (as demonstrated through the
+systems of other countries), generate millions of dollars in state income, and serve as an example
+
+​It is worth noting that not every registered donor has their organs donated. Only about 3 in 1,000 registered donors
+eventually die in a way that is conducive to donation (the ideal donor is young, healthy, fit, with no diseases, and
+died in a way that didn’t damage their organs. Not many donors fit this description). Quick estimates confirm this: of
+the roughly 2,600,000 people who died in the U.S. in 2016, about 7,800 [12] had their organs donated (and
+7,800/2,600,000=.003).
+1
+
+2
+
+for other states to do the same. Most countries have one of four types of systems: Explicit
+Consent, Presumed (or Implied) Consent, Mandated Choice, and/or Routine Removal
+Explicit Consent
+Explicit consent is a system by which a willing donor must ‘explicitly’ register their
+consent for organ donation, typically done during driver’s license renewal. Many explicit consent
+countries (U.S. included) also ban the buying and selling of organs, established a national (or
+state) organ registry, and allow citizens to state their support and willingness to become a living
+organ donor or a deceased organ donor (where some or all organs may be donated if a person is
+declared dead) in a manner approved by the state. However, Explicit Consent systems usually
+have a major ‘disconnect’ between supporters of organ donation and those who are actually
+registered as organ donors. For example, in the United States, more than 95 per cent of
+Americans support organ donation. However, only approximately 45 per cent have taken the
+measures necessary for medical personnel to legally remove any organs. While this discrepancy
+is concerning, legislators can realize Americans overly support organ donation, and therefore
+probably a more comprehensive solution.
+Presumed Consent
+Presumed consent, or an “opt-out” system, is commonly defined as a system in which
+every eligible donor (normally those over 18) is “presumed” to give their support and
+automatically classified by the state as a deceased organ donor. Those who wish to not be a
+donor can register their opposition (thereby “opting-out”). Considering an overwhelming
+majority of Americans support organ donation, proponents say this allows people to avoid and
+paperwork associated with registration and instead move the burden from those who wish to
+better society (organ donors) to those who choose otherwise (objectors). Perhaps the most salient
+example of presumed consent as an alternative to explicit consent is the organ donation systems
+of Germany and Austria. The two nations are very similar in most respects. However, Germany
+uses an explicit consent system, while Austria uses a presumed consent system. According to a
+2003 study conducted by Eric Johnson and Dan Goldstein, just 12 per cent gave of eligible
+Germans their consent to be organ donors. However, 99.98 per cent of Austrians gave theirs [4].
+
+3
+
+This, coupled with extremely limited maintenance and legislative costs to change systems, makes
+Presumed Consent a low-cost and low-maintenance system utilized by many countries today.
+
+Mandated Choice (or
+Required Response)
+The states of New
+York and Illinois use a
+system commonly known
+as Mandated Choice. In
+this system, people who
+wish to renew their
+driver’s license (or other
+frequent, statewide application, such as a tax return or voter registration form) must answer the
+questions pertaining to organ donation. This would capitalize on the near-unanimous support of
+organ donation by forcing the issue (or merely notifying donors of it). The positive effects of this
+could also be significantly augmented by ensuring that the will of the deceased cannot be
+overruled by the next of kin (which is discussed below).
+Routine Removal
+No countries or states currently use routine removal for all organs, which is a system in
+which all needed organs are taken from deceased or ‘hopelessly compromised’ (e.g. brain dead
+patients) people. The next-of-kin has no say in the fate of their relative’s organs. Despite this
+likely solving global organ donation crises within a few short years, a great majority of people
+object to such systems for all organs. However, some organs or tissues are routinely removed.
+The state of Georgia, for a period, routinely removed all available corneas for transplantation (as
+some types of blindness can be reversed). This increased the number of cornea donations from as
+mere 23 to over 1,000 in a year, which cleared Georgia’s cornea waiting list. In Singapore, all
+persons who do not register their objections to donation will have their organs transplanted. After
+
+4
+
+enactment of this law in 2009, cadaveric kidney donations tripled. While Singapore’s system is
+not one of Routine Removal (as objectors can register their consent and avoid donation), it
+espouses many of the extremely successful traits associated with these systems.
+The Next of Kin Problem
+However, the arguably-breakthrough effects demonstrated by Presumed Consent are
+often dulled by the next of kin. Descendants of the deceased donor, in most countries, are given
+the option to decide the fate of their relative’s organs if there is no record of registration (some
+countries allow them to decide even if the deceased expressed their willingness to donate).
+Families in the United States reject organ donation requests just about half the time. However,
+this figure is much lower in countries with presumed consent, as presumed consent can be
+applied, in a sense, a second time. Presumed consent nations can interpret a descendant's silence
+as agreement with donation instead of disagreement with donation. The results are notable: In
+France, rejection rates are near 30%; in Spain, rejection rates hover around 20% [1]. By creating
+an environment where decedents have less pressure to say ‘yes’ because the state can make that
+decision for them if they wish, descendents are (as in the cases of France, Spain, and Austria)
+more likely to allow deceased organ donations to occur.
+
+Past Application in the United States
+As discussed earlier, many states have realized the benefit these simple changes can
+supply. Among a vast majority of American economists, scientists, and doctors, most agree the
+system of Presumed Consent is more effective than the status quo. Florida, Georgia, and
+Oklahoma have or once had a routine removal system for corneas. The state of Texas
+implemented a similar system for deceased persons without a next of kin. The states of Illinois
+and New York have laws requiring people who wish to renew their driver’s license to fill out the
+organ donation section as opposed to merely “skipping” the question.. Bills proposed in
+Maryland and Pennsylvania in the early 1990’s contain clauses that would define them as
+“Presumed Consent.” Even as recently as 2016 (and into 2017) have the two states continually
+discussed the idea and await final report from their research groups. However, a comprehensive
+and sweeping solution (similar to prominent European ones) has never been implemented in the
+
+5
+
+United States. With the variety of solutions proposed, discussed, and implemented around the
+world and in the United States, surely the state of Kansas can find a suitable solution.
+
+A System for Kansas
+The following proposals would arguably fit the bill of needing a non-intrusive, cheap,
+simple, tested, and popular solution. Obviously, the right law for Kansas would need to fulfill as
+many of the following items (and more):
+❖ Reduce the number of persons needing an organ transplantation;
+❖ Reduce the number of deaths caused by a lack of available organs;
+❖ Decrease the discrepancies between public support and public action;
+❖ Decrease the costs associated with the current organ donation system;
+❖ If using “presumed consent,” allows for an easy and simple “opt-out”;
+By combining the systems previously discussed, several possibilities abound: Routine Removal,
+Presumed Consent and Mandated Choice, Mandated Choice, and simply Presumed Consent.
+
+Maryland and Pennsylvania
+Before the actual proposal, some context: The Maryland and Pennsylvania state legislatures
+introduced separate bills which contained the following similarities:
+❖ If an individual had not expressed an objection during the individual's lifetime, then the
+individual is presumed to have wished to donate;
+❖ If a donor has not expressed preference for either compliance or objection, then the next
+of kin’s objection is sufficient to permanently halt all organ donations;
+❖ If record of the preference of a potential donor is found, then this preference cannot be
+overridden by the next of kin;
+❖ All reasonable efforts are to be made to contact the potential donor's next of kin.
+This system is beneficial in a variety of ways (other than being Presumed Consent):
+❖ It allows for those who wish not to be donors to do so;
+
+6
+
+❖ It prohibits the next of kin from overriding the deceased’s recorded preference, but
+simultaneously allows the next of kin to decide in the event that no preference is found.
+
+Organ Donation Myths
+Some potential donors do not donate or do not trust the current system to process their
+organs fairly and quickly. Whether from lack of information, purposeful disinformation, or
+another cause, many believe certain myths about organ donation and the doctors that perform
+such operations:
+❖ Some may believe that celebrities or the rich get preferential treatment. This is ​false​.
+While celebrities or the rich may be able to find organs faster than the average person,
+this is likely due to things such travelling outside of the state or country to receive a
+transplant and not due to bias in the selection process.
+❖ A another, rather outrageous myth, pertains to doctors in life-saving operations: If you
+are in the midst of an operation and doctors find out that you’re a registered donor, they
+will not do everything they can to save you. This is ​false​.
+❖ Furthermore, some religions don’t encourage donation. Also, you can’t donate if you’re
+too old or have a medical condition such as diabetes. All of this is ​false​. All major
+religions support organ donation. In addition, age and medical condition does not directly
+disqualify donation.
+❖ Another myth states that if you do donate organs, whether while living or posthumously,
+your family must pay for the costs. This is ​false​.
+❖ Open casket funerals aren’t possible if someone is a donor. This is ​false.
+
+7
+
+Conclusion: The Tradeoff of a Lifetime
+The United States has a donation rate of approximately 20 donors per million people. Yet
+this above-average rate alone cannot solve the extremely pressing life-and-death matters the
+United States, and the world, faces. The solutions mentioned here are proven to be effective and
+efficient while costing almost nothing. More than 600 people in Kansas need life-saving organs.
+The problem is not available organs; thousands of people die in Kansas a year. The problem is
+with the disconnect between public support and public action, between the default and
+proactivity. Kansas stands to benefit greatly from an improved organ donation system, whether it
+be Presumed Consent or otherwise. Approximately 90 Kansas die every year on the waitlist, or 1
+every 4 days2. In addition to saving 90 lives or more a year (as this disregarding lives improved
+but not saved), Kansas stands to gain significant financial benefits. If, for example, 50 of the
+approximately 90 Kansans who would die per year are saved through this system, and each earns
+approximately $66,000 USD a year [15], in the first year alone, Kansas could generate taxes on
+an extra 66,000(50)=$3,300,000.00 USD, meaning Kansas would theoretically generate more
+than $140,000 in taxes every year. And because they would produce taxable income for more
+than one year (let’s say, 10 more years), in just a decade, Kansas could generate more than
+$1,400,000 in income a year. These estimates, are, of course, very conservative, as they low-ball
+many variables and disregard medical bills, funeral costs, and more that would be saved, in
+addition to the added benefit of an increased workforce. Most of those 50 people will probably
+work for more than 10 years; furthermore, Kansas may implement tax increases, in addition to
+gaining more income from additional, current taxes. These variables and more could push the
+figure of $1,400,000 to more than $4,000,000 per year. But monetary incentives aside, there still
+remains the growing problem (and the many solutions to it): a lack of donatable organs. By
+implementing small, smart changes in state regulation, Kansas can save lives, generate tax
+income, reduce the size of the government, and create a positive influence for other states to
+follow Kansas’ lead.
+
+​This figure of 90 Kansans per year is also obtained via quick math: assuming equal distribution of the people on
+the wait list by state, we can divide the population of Kansas (about 2,900,000) by the population of the United
+States (323,100,000) to get the percentage of 2,900,000/323,100,000= about 1%. Then, we take this 1% and
+multiply it by the number of people in the United States needing a transplant (about 22 die every day, meaning
+22*365=about 8,000 die in the U.S. per year. Multiply by 1% and we get about 80 per year, or 1 every 4 days).
+2
+
+8
+
+Bibliography
+“2012 National Survey of Organ Donation Attitudes and Behaviors.” Sept. 2013,
+www.organdonor.gov/dtcp/nationalsurveyorgandonation.pdf. Accessed 19 Jan. 2017.
+“Age Distribution, United States.” ​CensusScope -- Population Pyramid and Age Distribution
+Statistics​, CensusScope, www.censusscope.org/us/chart_age.html. Accessed 6 February
+2017.
+“Annual Report | UNOS.” ​Annual UNOS Report​, United Network for Organ Sharing,
+www.unos.org/about/annual-report/. Accessed 7 December 2016.
+Damani, Anand. “Why 99% of Austrians Donate Their Organs.” ​Why 99% of Austrians Donate
+Their Organs |​, Behavioral Design, 11 Aug. 2015,
+www.behaviouraldesign.com/2015/08/11/why-99-of-austrians-donate-their-organs/.
+Accessed 6 December 2016.
+Editors, The. “Should Laws Push for Organ Donation?” ​The New York Times​, The New York
+Times, 2 May 2010​. ​Accessed 27 February 2017.
+K.S.A. ​§​ 8-247
+Legal, Inc. US. “Kansas Uniform Anatomical Gift Act Law.” ​Uniform Acts​, US Legal,
+uniformacts.uslegal.com/anatomical-gifts-act/kansas-uniform-anatomical-gift-act-law/.
+Accessed 4 May 2017.
+Live Science Staff. “Donating a Kidney Doesn't Shorten the Donor's Life.” ​Live Science​, Live
+Science, www.livescience.com/6191-donating-kidney-shorten-donor-life.html. Accessed
+4 Mar. 2017.
+
+9
+
+McCurdy, Nathan. “Department Names Legislative Liaisons.” ​PsycEXTRA Dataset​, 9 Feb. 2015,
+doi:10.1037/e619112007-003. Accessed 30 Dec. 2016.
+“Organ Donation.” ​Wikipedia​, Wikimedia Foundation, 16 Apr. 2017,
+en.wikipedia.org/wiki/Organ_donation#Opt-in_versus_opt-out. Accessed 18 April 2017.
+“Organ Donation: When Consent Confronts Refusal.” ​Virtual Mentor​, Amer Med Assoc, 24
+Mar.
+2009, journalofethics.ama-assn.org/2003/02/ccas2-0302.html. Accessed 5 March 2017.
+“Organ Donation and Transplantation Statistics.” ​Organ Donation and Transplantation
+Statistics​,
+The National Kidney Foundation, 11 Jan. 2016,
+www.kidney.org/news/newsroom/factsheets/Organ-Donation-and-Transplantation-Stats.
+Accessed 11 December 2016.
+“Organ Donation FAQs.” ​Organ Donation FAQs and Facts​, HRSA,
+www.organdonor.gov/about/facts-terms/donation-faqs.html. Accessed 23 April 2017.
+“Organ Donation Statistics.” ​Organ Donation Statistics: Why Be an Organ Donor?​, HRSA,
+www.organdonor.gov/statistics-stories/statistics.html. Accessed 28 March 2017.
+"Point2 Homes." ​Demographics & Statistics - Employment, Education, Income Averages, Crime
+in Kansas - Point2 Homes​. N.p., n.d. Web. 24 June 2017.
+Shepherd, Lee, et al. “An International Comparison of Deceased and Living Organ
+Donation/Transplant Rates in Opt-in and Opt-out Systems: a Panel Study.” ​BMC
+Medicine​, BioMed Central, 24 Sept. 2014,
+bmcmedicine.biomedcentral.com/articles/10.1186/s12916-014-0131-4. Accessed 22
+December 2016.
+
+10
+
+“What Is Living Donation.” ​What Is Living Donation?​, Gift of Life Donor Program,
+www.donors1.org/livingdonation/livingdonationfaq/. Accessed 30 January 2017.
+
+

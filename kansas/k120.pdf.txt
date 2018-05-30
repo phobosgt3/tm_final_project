@@ -1,0 +1,466 @@
+BIOSIMILARS AND SMALL MOLECULE
+GENERICS: HOW DO THEY DIFFER AND
+WHY DOES IT MATTER?
+
+THOMAS FELIX, MD
+
+MEDICAL DIRECTOR, R&D POLICY
+
+WHAT IS A BIOLOGIC MEDICINE?
+• A biologic is a substance that is made from a living organism or its
+
+products.1
+• Biologics are developed in living systems, including bacterial2, yeast3,4,
+
+and mammalian5,6 cells.
+
+1. National Cancer Institute: Dictionary of Cancer Terms. Available at: http://www.cancer.gov/dictionary?cdrid=426407. Accessed January, 18, 2013. 2.
+Baneyx F, Curr Opin Biotechnol. 1999;10:411-421. 3. Cregg JM, et al. Mol Biotechnol. 2000;16:23-52. 4. Malys N, et al. Methods in Enzymology. 2011;500:197212. 5. Lackner A, et al. Anal Biochem. 2008;380:146-148. 6. Rosser MP, et al. Protein Expr2Purif. 2005;40:237-243.
+
+BIOLOGIC THERAPIES HAVE TRANSFORMED HEALTHCARE
+Worldwide, nearly 200 biologics have transformed the lives of over 800 million patients with serious illnesses1
+
+1. Essential Action: Saving Billions: The Case for Effective Biogenerics Legislation. Available at: http://www.essentialaction.org/access/uploads/BiogenericsGeneralFactSheetFinal.pdf
+Last accessed March 17, 2014.
+3
+
+BIOLOGICS ARE APPROVED TO TREAT VARIOUS CONDITIONS
+
+Cancers1
+
+1.
+
+Immune system
+disorders1,2
+
+Neurological
+disorders1
+
+Biotechnology Industry Organization. Guilford-Blake R, Strickland D, eds. Guide to Biotechnology. 2008. www.bio.org/sites/default/files/
+BiotechGuide2008.pdf. Accessed February 2, 2012; 2. Kozlowski S, et al. N Engl J Med. 2011:365:385-388.
+4
+
+Hematologic
+conditions1,2
+
+RECOMBINANT DNA TECHNOLOGY TO PRODUCE BIOLOGICS
+Gene for Protein
+of interest (DNA)
+
++
+Nucleus
+
+Host Cell
+DNA-carrying Vector
+(eg, plasmid or virus)
+
+The gene for a desired
+protein is combined with a
+vector DNA sequence1,2
+1.
+
+The recombinant DNA
+sequence is inserted into
+a host cell1,3
+
+The host cell reproduces
+in culture and expresses
+the desired protein1
+
+Gottlieb S. Am J Health Syst Pharm. 2008;65(suppl 6):S2-S8. 2. Sharma BG. EJHP Practice. 2007;13:54-56. 3. Kresse GB, et al. Eur J Pharm Biopharm.
+2009;72:479-486.
+5
+
+A HOST CELL IS CHOSEN TO MASS PRODUCE THE PROTEIN
+Cells that most effectively
+produce the protein are
+replicated1,2
+
+A cell bank of master cells
+are isolated and stored1,2
+
+Some cells are used to
+create a working cell bank
+and are used to make the
+protein of interest1,2
+
+Each biologic starts with a cell bank designed to produce that specific protein
+1.Kresse GB, et al. Eur J Pharm Biopharm. 2009;72:479-486. 2. Amgen Inc. An Introduction to Biotechnology. Available at:
+http://wwwext.amgen.com/pdfs/misc/An_Introduction_Biotechnology.pdf. Accessed January, 2013. 3. Chuck AS, et al. In: Elliot SG, et al, eds. Erythropoietins,
+erythropoietic factors, and erythropoiesis: molecular, cellular, preclinical, and clinical biology.
+6 2nd ed. Basel, Switzerland: Birkhäuser Basel; 2009:87-104
+
+COMMERCIAL SCALE BIOLOGICS ARE MADE IN LIVING CELLS
+USING COMPLEX AND WELL CONTROLLED PROCESSES
+1
+
+3
+
+2
+Cell Culture1
+
+Cells from the working cell bank are thawed
+
+4
+
+Quality Assurance1,2
+Tests and controls are performed to demonstrate
+identity, strength, quality, potency, and purity
+
+Scale-Up1
+Cells are cultured in large vessels.
+Bioreactors can hold up to 10,000-20,000L
+
+5
+
+Recovery and Purification1
+Protein product is extracted and purified
+
+6
+
+Fill and Finish1
+The product is purified and the final
+product is packaged
+
+Refrigerate, Store, Transport3
+Tightly controlled environmental conditions
+are required for transportation and storage
+
+1.Amgen Inc. An Introduction to Biotechnology. 2009. Available at: http://wwwext.amgen.com/pdfs/misc/An_Introduction_Biotechnology.pdf. Accessed
+January, 2013 2. Food and Drug Administration. Guidance for industry: potency tests for cellular and gene therapy products. Available at:
+http://www.fda.gov/downloads/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/Guidances/CellularandGeneTherapy/UCM243392.pdf.
+7
+Accessed June 1, 2013. 3. Sharma BG. EJHP Pract. 2007;13:54-56.
+
+SMALL MOLECULES AND BIOLOGICS DIFFER SUBSTANTIALLY
+Biologics
+(protein-based drugs)1
+
+Small molecules
+(chemically based drugs)1
+
+IgG1
+
+Ibuprofen
+
+Example
+1.
+
+Biologic (monoclonal antibody)3
+~ 25,000 atoms
+
+Ibuprofen2
+29 atoms
+
+Kozlowski S, et al. N Engl J Med. 2011;365:385-388; 2. Motrin® comprehensive prescribing information,
+http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/017463s105lbl.pdf. Accessed September 9, 2016; 3. Davies DR, et al. Ann Rev Biochem.
+1975;44:639-667.
+8
+
+DIFFERENCES BETWEEN SMALL MOLECULES AND BIOLOGICS
+
+Ibuprofen1
+29 atoms
+
+Biologic - monoclonal antibody
+~25,000 atoms6
+
+Small2
+
+Large2 – ~600x larger
+
+Simple3 and well defined2,4
+
+Complex with many options for posttranslational modification7
+
+Predictable chemical process;
+Identical copy can be made2
+
+Each manufactured in a unique living cell line2
+Similar but not identical copy can be made2
+
+Easy to fully characterize5
+
+Difficult to characterize fully due to a mixture of
+related molecules2
+
+Stability
+
+Relatively stable2
+
+Sensitive to storage and handling conditions2
+
+Immunogenicity
+
+Lower potential2
+
+Higher potential2
+
+Example
+Size
+
+Properties
+
+Structure
+Manufacturing
+Characterizations
+
+Images are for illustrative purposes and are not to scale.
+1. Motrin® comprehensive prescribing information, http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/017463s105lbl.pdf. Accessed September 9, 2016;
+2. Genazzani AA, et al. Biodrugs. 2007;21:351-356; 3. Prugnaud JL. Br J Clin Pharmacol. 2007;65:619-620; 4. Crommelin DJ, Storm G, Verrijk R, et al. Int J Pharm.
+2003;266:3-16; 5. Gottlieb S. Am J Health Syst Pharm. 2008;65(suppl 6):S2-S8; 6. Davies DR, 9et al. Ann Rev Biochem. 1975;44:639-667;
+7. Roger SD. Nephrology. 2006;11:341-346.
+
+WHAT ARE BIOSIMILARS?
+
+
+
+Biosimilars highly similar, but not identical to, existing biological products.1
+The Public Health Service Act defines biosimilar or biosimilarity as:
+• “the biological product is highly similar to the reference product
+notwithstanding minor differences in clinically inactive components,”2 and
+• “there are no clinically meaningful differences between the biological product
+and the reference product in terms of the safety, purity, and potency of the
+product.”2
+
+Biosimilars
+
+Original Biologic
+1. Mellstedt H, et al. Ann Oncol. 2008;19:411-419
+2. Section 7002(b)(3) of the Affordable Care Act, adding section 351(i)(2) of the PHS Act.
+10
+
+FDA PERSPECTIVE: A “TOTALITY OF THE EVIDENCE”
+APPROACH WILL BE APPLIED TO ASSESS BIOSIMILARITY
+Generics
+
+Biosimilars
+Extensive structural and functional characterization
+
+Establish same active ingredient
+Consider need for animal data to assess toxicity
+Demonstration of bioequivalence
+
+Clinical studies to compare PK/PD, safety/efficacy, and
+immunogenicity
+
+
+Sufficient to demonstrate that the product is “highly similar” to the
+reference product and safe, pure, and potent for one or more
+approved conditions of use
+
+
+
+FDA has discretion to determine that certain studies not required
+
+Food and Drug Administration. http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM291128.pdf.
+Accessed September 13, 2016.
+11
+
+INTERCHANGEABILITY DESIGNATION REQUIRES EVIDENCE
+BEYOND THAT NEEDED TO DEMONSTRATE BIOSIMILARITY
+Interchangeability
+Biosimilarity
+
+Approved as a biosimilar AND:
+
+• Highly similar notwithstanding minor
+differences in clinically inactive components
+
+• Expectation of same clinical result in any
+given patient and…
+
+• No clinically meaningful differences in safety,
+purity, and potency
+
+• For a product that is administered more
+than once, no additional risk to safety or
+efficacy as a result of alternating or
+switching
+
+Patient Protection and Affordable Care Act. http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills&docid=f:h3590pp.txt.pdf
+http://www.fda.gov/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/TherapeuticBiologicApplications
+/Biosimilars/ucm241720.htm. Last accessed September 13, 2016.
+12
+
+FDA DETERMINES INTERCHANGEABILITY, WHILE
+AUTOMATIC SUBSTITUTION IS GOVERNED BY STATES
+FDA designation1
+Biosimilar
+
+Interchangeable
+biologic
+
+Automatic substitution with
+reference product is not
+recommended2
+
+Substitution of interchangeable for
+reference product may be allowed2
+Subject to state laws3
+
+•
+
+FDA policy on approval standards for biosimilars does not address automatic substitution
+
+•
+
+There is ongoing legislative activity in multiple states with regard to automatic substitution
+of interchangeable biologics for the reference product3
+
+1. Patient Protection and Affordable Care Act. 2009. http://www.gpo.gov/fdsys/pkg/BILLS-111hr3590pp/pdf/BILLS-111hr3590pp.pdf. Accessed April 30, 2015. 2.
+FDA.
+http://www.fda.gov/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/TherapeuticBiologicApplications/Biosimi
+13
+lars/ucm241718.htm. Accessed February 18, 2015. 3. NCSL. State Laws and Legislation Related
+to Biologic Medications and Substitution of Biosimilars. 2014.
+http://www.ncsl.org/documents/health/Biologics_BiosimilarsNCSLReport_July_2014.pdf. Accessed April 4, 2015.
+
+26 STATES HAVE ENACTED PHARMACY PRACTICE ACTS
+RELATED TO BIOLOGICS AND BIOSIMILAR SUBSTITUTION
+26 US States and Puerto Rico
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Indiana
+Delaware
+Massachusetts
+North Dakota
+Florida
+Virginia
+Oregon
+California
+Colorado
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Illinois
+Idaho
+Louisiana
+New Jersey
+North Carolina
+Tennessee
+Texas
+Utah
+Kentucky
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Legislation passed
+Legislation pending
+
+1. http://www.ncsl.org/research/health/state-laws-and-legislation-related-to-biologic-medications-and-substitution-of-biosimilars.aspx. Last accessed
+September 13, 2016.
+14
+
+Arizona
+Missouri
+Rhode Island
+Hawaii
+Pennsylvania
+Washington
+Georgia
+Puerto Rico
+Ohio
+
+PROTECTING PATIENTS WITH SCIENCE-BASED POLICY
+Principle
+
+Prevailing
+Generic
+Requirements
+
+Suggested
+Biosimilar
+Requirements
+
+Substitution based on an FDA
+determination
+
+Yes-therapeutic
+equivalence
+
+Yes-interchangeable
+
+The prescribing physician should be able to
+specify ‘dispense as written’
+
+Yes
+
+Yes
+
+The patient should be informed of the
+substitution
+
+Yes
+
+Yes
+
+Pharmacy records should be maintained
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Only after dispensing, the patient’s medical
+record should be updated with HCP (e.g.,
+through direct entry into a shared electronic
+record, communication via fax)
+
+15
+
+SUMMARY
+
+
+
+
+
+
+Biologics are developed in living cells1,2, using complex processes involving many
+highly regulated and unique steps3-6
+Biosimilars are highly similar, but not identical to the innovator biologic2
+The US pathway for approval of biosimilars was signed into law as part of the
+Patient Protection and Affordable Care Act7
+ A totality of evidence will be considered when evaluating a biosimilar product
+for approval8
+ Determination of interchangeability requires a higher standard of evidence7,9
+Patient care is advanced when physicians and pharmacists communicate after the
+dispensing of a biologic.
+
+1. Biotechnology Industry Organization. Guilford-Blake R, Strickland D, eds. Guide to Biotechnology. 2008. www.bio.org/sites/default/files/ BiotechGuide2008.pdf. Accessed January 24, 2013; 2.
+Mellstedt H, et al. Ann Oncol. 2008;19:411-419; 3. Amgen Inc. An Introduction to Biotechnology. 2009. www.amgen.com/pdfs/misc/An_Introduction_Biotechnology.pdf. Accessed January 24, 2013;
+4. Kresse GB, et al. Eur J Pharm Biopharm. 2009;72:479-486; 5. Sharma BG. EJHP Practice. 2007;13:54-56; 6. Roger SD. Nephrology. 2006;11:341-346; 7. Patient Protection and Affordable Care
+Act. frwebgate.access.gpo.gov/cgibin/getdoc.cgi?dbname=111_cong_bills&docid=f:h3590pp.txt. pdf. Accessed January
+24, 2013; 8. Food and Drug Administration.
+16
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/ucm259797.htm. Accessed January 24, 2013; 9. Kozlowski S, et al. N Engl J Med. 2011:365:385-388;
+
+
